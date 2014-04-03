@@ -5,10 +5,13 @@ $data_file = 'default_data.json';
 include_once "themr.php";
 
 $css = array(
-  // src     => media
+  // <src>                => <media>
+  //    examples:
+  // 'css/normalize.css'  => '',
+  // 'css/print.css'      => 'print',
 );
 $js_head = array(
-  // 'js/libs/modernizr-2.7.1.js'
+  // 'js/libs/modernizr-2.7.1.js',
 );
 $js = array(
   // 'js/script.js',
