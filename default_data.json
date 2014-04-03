@@ -1,0 +1,39 @@
+{
+      "title": "Tumblr Blog"
+    , "metadescription": "This is a new tumblr theme"
+    , "description": "This is a new tumblr theme"
+    , "posts": {
+          "text": {
+              "title": "Text Post"
+            , "body": "<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>"
+        }
+        , "link": {
+              "url": "http://mrgan.tumblr.com/post/10492926111/labeling-the-back-button"
+            , "name": "Labelling the Back button"
+            , "description": "<p><a href=\"http://twitter.com/mrgan\">Neven Mrgan</a> addresses the issue of button/action labels, in this case with the &#8216;Back&#8217; button on some popular iOS apps. We have seen this issue before&#8212;-modal dialogs with buttons labeled &#8216;Yes&#8217; / &#8216;No&#8217; or &#8216;OK&#8217; / &#8216;Cancel&#8217;. The rule remains the same, always use descriptive labels. Nouns over verbs.</p>"
+        }
+        , "quote": {
+              "quote": "Good artists copy. Great artists steal."
+            , "source": "Pablo Picasso"
+        }
+        , "photo": {
+              "photourl-500": "http://farm5.static.flickr.com/4037/4688968189_d5097a8dd7.jpg"
+            , "title": "Water, Land and Air"
+            , "caption": "<p>As seen from Carrick-a-Rede Rope Bridge, Antrim, Northern Ireland.</p>"
+            , "tag": "seascape"
+            , "dayofmonth": "21"
+            , "dayofmonthsuffix": "st"
+            , "month": "August"
+            , "year": "2011"
+            , "notecountwithlabel": "3 notes"
+            , "exif": {
+                  "camera": "Canon EOS 450D"
+                , "iso": "400"
+                , "aperture": "f/11.0"
+                , "exposure": "1/250s"
+                , "focallength": "18 mm"
+            }
+            , "postnotes": "<ol class=\"notes\"><!-- START NOTES --> <li class=\"note reblog tumblelog_flightoftheneurons without_commentary\"><a href= \"http://flightoftheneurons.tumblr.com/\" title= \"..-..-....--.....----..-.-.....-...-..-.----....\"><img src= \"http://24.media.tumblr.com/avatar_0dea0254ecb6_16.png\" class=\"avatar\" alt=\"\"></a> <span class=\"action\"><a href=\"http://flightoftheneurons.tumblr.com/\" class=\"tumblelog\" title=\"..-..-....--.....----..-.-.....-...-..-.----....\">flightoftheneurons</a> reblogged this from <a href=\"http://cameronmoll.tumblr.com/\" class=\"source_tumblelog\" title= \"Cameron Moll / Designer, Speaker, Author\">cameronmoll</a></span> <div class=\"clear\"></div> </li> <li class=\" note like tumblelog_calculatoare-second-hand without_commentary\"><a href= \"http://www.enasistem.ro/\" title=\"Calculatoare second hand\"><img src= \"http://assets.tumblr.com/images/default_avatar_16.gif\" class=\"avatar\" alt=\"\"></a> <span class=\"action\"><a href=\"http://www.enasistem.ro/\" title= \"Calculatoare second hand\">calculatoare-second-hand</a> liked this</span> <div class=\"clear\"></div> </li> <li class=\" note like tumblelog_gean without_commentary\"><a href= \"http://gean.tumblr.com/\" title=\"gean\"><img src= \"http://29.media.tumblr.com/avatar_f0ec866a8837_16.gif\" class=\"avatar\" alt=\"\"></a> <span class=\"action\"><a href=\"http://gean.tumblr.com/\" title=\"gean\">gean</a> liked this</span> <div class=\"clear\"></div> </li> <li class=\" note like tumblelog_tidythoughts without_commentary\"><a href= \"http://tidythoughts.com/\" title=\"tidy thoughts\"><img src= \"http://24.media.tumblr.com/avatar_f06ec201df66_16.png\" class=\"avatar\" alt=\"\"></a> <span class=\"action\"><a href=\"http://tidythoughts.com/\" title= \"tidy thoughts\">tidythoughts</a> liked this</span> <div class=\"clear\"></div> </li> <li class=\" note reblog tumblelog_ialreadydontlikeyou with_commentary\"><a href= \"http://ialreadydontlikeyou.tumblr.com/\" title=\"I ALREADY DON'T LIKE YOU\"><img src= \"http://28.media.tumblr.com/avatar_8a9c246ecf94_16.png\" class=\"avatar\" alt=\"\"></a> <span class=\"action\"><a href=\"http://ialreadydontlikeyou.tumblr.com/\" class=\"tumblelog\" title=\"I ALREADY DON'T LIKE YOU\">ialreadydontlikeyou</a> reblogged this from <a href= \"http://cameronmoll.tumblr.com/\" class=\"source_tumblelog\" title= \"Cameron Moll / Designer, Speaker, Author\">cameronmoll</a> and added:</span> <div class=\"clear\"></div> <blockquote><a href=\"http://ialreadydontlikeyou.tumblr.com/post/8434588594\" title= \"View post\">Nice to see a new edition. If you havenâ€™t used this site yet, and you sit in front of a screen 8+ hours a day, you need...</a></blockquote> </li> <li class=\" note like tumblelog_ialreadydontlikeyou without_commentary\"><a href= \"http://ialreadydontlikeyou.tumblr.com/\" title=\"I ALREADY DON'T LIKE YOU\"><img src= \"http://28.media.tumblr.com/avatar_8a9c246ecf94_16.png\" class=\"avatar\" alt=\"\"></a> <span class=\"action\"><a href=\"http://ialreadydontlikeyou.tumblr.com/\" title= \"I ALREADY DON'T LIKE YOU\">ialreadydontlikeyou</a> liked this</span> <div class=\"clear\"></div> </li> <li class=\" note reblog tumblelog_cameronmoll without_commentary\"><a href= \"http://cameronmoll.tumblr.com/\" title= \"Cameron Moll / Designer, Speaker, Author\"><img src= \"http://25.media.tumblr.com/avatar_b5c4918c4933_16.png\" class=\"avatar\" alt=\"\"></a> <span class=\"action\"><a href=\"http://cameronmoll.tumblr.com/\" class=\"tumblelog\" title= \"Cameron Moll / Designer, Speaker, Author\">cameronmoll</a> posted this</span> <div class=\"clear\"></div> </li> <!-- END NOTES --></ol>"
+        }
+    }
+}
